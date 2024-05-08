@@ -1,2 +1,2 @@
 # Read Me
-inital commit
+"Physics and machine learning are fun!"
